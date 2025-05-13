@@ -6,7 +6,7 @@
 
 - 🚀 I'm currently working on **Web Based Project**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Manojmanoj12)  
-- 📧 How to reach me: [kartheebankavitha2005@gmail.com](mailto:manojmanoj72073@gmail.com)  
+- 📧 How to reach me: [manojmanoj72073@gmail.com](mailto:manojmanoj72073@gmail.com)  
 
 ---
 
