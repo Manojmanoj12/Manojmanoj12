@@ -1,18 +1,18 @@
-# Hi 👋, I'm KARTHEEBAN K 
+# Hi 👋, I'm MANOJ C S 
 
 ### A passionate Full Stack Developer  
 
 ![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  
 
 - 🚀 I'm currently working on **Web Based Project**  
-- 📂 All of my projects are available at [My Portfolio]( https://github.com/Kartheeban1808)  
-- 📧 How to reach me: [kartheebankavitha2005@gmail.com](mailto:kartheebankavitha2005@gmail.com)  
+- 📂 All of my projects are available at [My Portfolio](https://github.com/Manojmanoj12)  
+- 📧 How to reach me: [kartheebankavitha2005@gmail.com](mailto:manojmanoj72073@gmail.com)  
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartheeban-kartheeban-1a248725a) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/Kartheeban1808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manojcs24) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojmanoj12)
 ---
 
 ## 🚀 Languages and Tools:
